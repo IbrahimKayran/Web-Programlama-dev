@@ -5702,11 +5702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\WebProgramlaOdev\\WebProgramlaOdev.csproj",
+      "projectUniqueName": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\Web-Programlama-dev\\WebProgramlaOdev\\WebProgramlaOdev.csproj",
       "projectName": "WebProgramlaOdev",
-      "projectPath": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\WebProgramlaOdev\\WebProgramlaOdev.csproj",
+      "projectPath": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\Web-Programlama-dev\\WebProgramlaOdev\\WebProgramlaOdev.csproj",
       "packagesPath": "C:\\Users\\Kayran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\WebProgramlaOdev\\obj\\",
+      "outputPath": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\Web-Programlama-dev\\WebProgramlaOdev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kayran\\AppData\\Roaming\\NuGet\\NuGet.Config",

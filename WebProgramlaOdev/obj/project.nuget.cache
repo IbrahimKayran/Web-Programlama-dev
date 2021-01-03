@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hy0XlOeYCJLc2jwvs+KmVR7gGzk9UF54C8jyGljIINNj7JBTjFBeMioFrwNqmr7D2IvqLTbXWSybKgrzydrdUA==",
+  "dgSpecHash": "waGb6rbeVr8n/qeogSmlxw0D114bC9jhedZJgFOMlY99nEsY6CggPLwgMpWKR6QOC6BUignaf8vQKtxg2AKHSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\WebProgramlaOdev\\WebProgramlaOdev.csproj",
+  "projectFilePath": "C:\\Users\\Kayran\\Desktop\\Web Programlama Projeleri\\WebProgramlaOdev\\Web-Programlama-dev\\WebProgramlaOdev\\WebProgramlaOdev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kayran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\Kayran\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",
